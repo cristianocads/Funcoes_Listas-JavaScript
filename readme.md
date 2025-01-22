@@ -36,7 +36,6 @@ Este projeto foi desenvolvido para praticar e consolidar habilidades em front-en
 
 * Acesse o arquivo [conceito.md](conceito.md) para saber mais.
 
-
 <br>
 
 ## Como Rodar o Projeto

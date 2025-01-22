@@ -6,16 +6,12 @@ Funções são blocos de código projetados para executar uma tarefa específica
 
 ### Sintaxe Básica
 
-javascript
-
 `function nomeDaFuncao(parametro1, parametro2) {
   // Corpo da função
   return resultado;
 }`
 
 ### Exemplo:
-
-javascript
 
 `function saudacao(nome) {
   return `Olá, ${nome}!`;
@@ -25,15 +21,11 @@ console.log(saudacao("Maria")); // Output: Olá, Maria!`
 
 ### Funções Anônimas
 
-javascript
-
 `const saudacao = function(nome) {
   return `Olá, ${nome}!`;
 };`
 
 ### Arrow Functions (ES6)
-
-javascript
 
 `const saudacao = (nome) => `Olá, ${nome}!`;`
 
@@ -51,8 +43,6 @@ javascript
 
 ### Exemplo:
 
-javascript
-
 `const PI = 3.14;
 PI = 3.1415; // Isso causará um erro, pois PI é uma constante.`
 
@@ -63,8 +53,6 @@ PI = 3.1415; // Isso causará um erro, pois PI é uma constante.`
 Arrays são usados para armazenar múltiplos valores em uma única variável.
 
 ### Declaração e Inicialização
-
-javascript
 
 `let frutas = ["Maçã", "Banana", "Laranja"];`
 
@@ -77,8 +65,6 @@ javascript
 
 ### Exemplo:
 
-javascript
-
 `let frutas = ["Maçã", "Banana", "Laranja"];
 frutas.push("Uva"); // ["Maçã", "Banana", "Laranja", "Uva"]
 frutas.pop(); // ["Maçã", "Banana", "Laranja"]`
@@ -90,8 +76,6 @@ frutas.pop(); // ["Maçã", "Banana", "Laranja"]`
 Usada para executar código com base em uma condição.
 
 ### Exemplo:
-
-javascript
 
 `let idade = 18;
 if (idade >= 18) {
@@ -112,8 +96,6 @@ if (idade >= 18) {
 - `<=`: menor ou igual a
 
 ### Estruturas `switch-case`
-
-javascript
 
 `let fruta = "Banana";
 switch (fruta) {
@@ -140,8 +122,6 @@ Operadores lógicos são usados para combinar múltiplas condições.
 - `!`: NÃO lógico (not)
 
 ### Exemplo:
-
-javascript
 
 `let a = true;
 let b = false;
