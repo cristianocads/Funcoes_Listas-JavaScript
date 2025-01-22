@@ -18,7 +18,10 @@ Bem-vindo ao repositório dedicado à prática de **HTML**, **CSS** e **JavaScri
 Este projeto foi desenvolvido para praticar e consolidar habilidades em front-end por meio da construção de uma página web dinâmica, que inclui:
 
 - Criação e manipulação de listas e funções.
-- Referências
+- Referências.
+- Criação e manipulação de constantes.
+- Manipulação DOM.
+- Integrando áudio com as teclas do botão.
 - Estilização responsiva para garantir uma boa experiência em diferentes dispositivos.
 
 ### Tecnologias Utilizadas
