@@ -17,8 +17,11 @@ Bem-vindo ao repositório dedicado à prática de **HTML**, **CSS** e **JavaScri
 
 Este projeto foi desenvolvido para praticar e consolidar habilidades em front-end por meio da construção de uma página web dinâmica, que inclui:
 
-- Criação e manipulação de listas baseadas em entradas do usuário.
-- Utilização de eventos do JavaScript para interação em tempo real.
+- Criação e manipulação de listas e funções.
+- Referências.
+- Criação e manipulação de constantes.
+- Manipulação DOM.
+- Integrando áudio com as teclas do botão.
 - Estilização responsiva para garantir uma boa experiência em diferentes dispositivos.
 
 ### Tecnologias Utilizadas
@@ -41,11 +44,7 @@ Este projeto foi desenvolvido para praticar e consolidar habilidades em front-en
 
 <br>
 
-## Funcionalidades Desenvolvidas
-
-- Adição de itens a uma lista dinâmica com base em formulários preenchidos pelo usuário.
-- Atualização em tempo real da interface ao interagir com botões ou outros elementos interativos.
-- Design simples e moderno com suporte a diferentes tamanhos de tela.
+---
 
 Explore o código e aproveite para aprender mais sobre a criação de páginas dinâmicas com JavaScript!
 
