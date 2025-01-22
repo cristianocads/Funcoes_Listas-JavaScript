@@ -32,6 +32,13 @@ Este projeto foi desenvolvido para praticar e consolidar habilidades em front-en
 
 <br>
 
+## Conceitos sobre Funções, Listas, Condicionais e Operadores Lógicos
+
+* Acesse o arquivo [conceito.md](conceito.md) para saber mais.
+
+
+<br>
+
 ## Como Rodar o Projeto
 
 1. Clone este repositório em sua máquina local:
